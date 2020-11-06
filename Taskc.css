@@ -1,0 +1,41 @@
+ .navbar .container{
+    background-color:#252F31;
+    color: #FFF;
+    overflow:hidden;
+}
+
+.navbar .container ul
+ {
+    list-style:none;
+     padding-left:600px ;
+     overflow:hidden;
+     float:left;
+ } 
+.navbar .container ul li 
+{
+    float:left;
+    padding: 10px;
+}
+
+.contact 
+{
+    height: 650px;
+    background-color: black;
+    color: blanchedalmond;
+    overflow: hidden;
+
+}
+.container1
+{
+    list-style:none;
+    padding-left:550px ;
+    overflow:hidden;
+    float:left;
+}
+.container2
+{
+    list-style:none;
+    padding-left:550px ;
+    overflow:hidden;
+    float:left;
+}
